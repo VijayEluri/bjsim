@@ -1,7 +1,8 @@
 package bj;
 
 /**
- * Class representing a single hand of blackjack for one player
+ * Class representing a single hand of blackjack for one player.
+ * Tracks cards and betting amount.
 */
 public class Hand
 {
