@@ -1,5 +1,8 @@
 package bj;
 
+/**
+ * Class representing a single hand of blackjack for one player
+*/
 public class Hand
 {
 	private int[] currentCards;
